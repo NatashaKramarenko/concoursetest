@@ -9,4 +9,4 @@ params:
     text: 
 run:
   path: echo
-  args: [((text))]
+  args: [text]
